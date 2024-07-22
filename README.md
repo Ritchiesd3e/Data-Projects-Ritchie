@@ -1,6 +1,6 @@
 # Global Sales Dashboard 2021-2022
 
-### Dashboard Link: [Global Sales Dashboard](https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection)
+### Dashboard Link: https://aka.ms/AArj46y
 
 ## Problem Statement
 
