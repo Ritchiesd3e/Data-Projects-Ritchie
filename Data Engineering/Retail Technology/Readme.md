@@ -68,4 +68,5 @@ This project involves extensive ETL operations for a B2B2C platform, focusing on
 
 - **Bug Fixes**: Managed and resolved issues through JIRA ticket management.
 
-Architecture Diagram : 
+### Architecture
+![Architecture Diagram](retail_arc.png) 
