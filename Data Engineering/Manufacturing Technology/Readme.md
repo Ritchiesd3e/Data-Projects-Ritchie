@@ -60,4 +60,4 @@ This project involves designing and optimizing ETL processes for a Manufacturing
 - **Issue Tracking**: Managed and resolved issues through established tracking and reporting mechanisms.
 
 ## Architecture
-![Architecture Diagram]()
+![Architecture Diagram](manufacturing_arc.png)
