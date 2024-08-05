@@ -44,7 +44,7 @@ This project involves performing a streamlined ETL (Extract, Transform, Load) op
 ![Architecture Diagram](olymics_arc.png)
 
 ## Synapse Pipeline diagram
-![Architecture Diagram](olymics_arc.png)
+![Pipeline Diagram](https://github.com/Ritchiesd3e/Data-Projects-Ritchie/blob/main/Data%20Engineering/Olymics%20data%20-%20ETL%20using%20Synapse/Synapse%20Pipeline.png)
 
-## original dataset :https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
+#### original dataset :https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
 
