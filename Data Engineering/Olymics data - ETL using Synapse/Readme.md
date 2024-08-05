@@ -40,10 +40,11 @@ This project involves performing a streamlined ETL (Extract, Transform, Load) op
 - **Azure Synapse**: ETL operations and orchestration.
 - **GitHub**: Data extraction.
 
-## Additional Resources
-- [Architecture Diagram](link-to-diagram)
-- [Pipeline Screenshots](link-to-screenshots)
+## Architecture
+![Architecture Diagram](olymics_arc.png)
 
-  
-### original dataset :https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
+## Synapse Pipeline diagram
+![Architecture Diagram](olymics_arc.png)
+
+## original dataset :https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
 
